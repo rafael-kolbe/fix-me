@@ -1,0 +1,7 @@
+Alguns métodos de array são:
+
+- push: Adiciona um item ao final do array.
+- unshift: Adiciona um item ao começo do array.
+- pop: Remove o último item do array.
+- shift: Remove o primeiro item do array.  
+- sort: Reorganiza o array em ordem alfabética.

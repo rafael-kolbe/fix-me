@@ -1,0 +1,19 @@
+Inverta a posição das frutas no array "fruits".
+
+* Exemplo de saída * 
+[ 'Laranja', 'Abacaxi', 'Maçã', 'Pêra', 'Uva' ]
+
+
+Você pode:
+- Trocar palavras reservadas do javascript por outras palavras reservadas. 
+- Trocar os nomes das variáveis por outras que já existem.
+- Trocar sinais de comparação ou de cálculos.
+- Mover linhas de código inteiras de lugar. (pra cima ou pra baixo)
+- Utilizar o console.log() para entender o que acontece durante a execução do programa.
+
+Você NÃO pode:
+- Criar novas variáveis.
+- Criar novas linhas de código. (exceto console.log() para testes)
+- Trocar o valor das variáveis ou números no código.
+- Não utilizar alguma parte do código proposto.
+- Deletar parte do código.

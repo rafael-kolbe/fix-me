@@ -1,0 +1,7 @@
+Um "for" loop que possui outro "for" loop dentro dele chama-se um "loop aninhado" ou "nested loop" em inglês.
+
+Dentro de um loop aninhado, cada iteração do loop externo irá esperar o loop interno terminar de executar por completo.
+
+Variáveis de nome "i" e "j" são normalmente utilizadas para identificar índices de um array durante um loop.
+
+Tentar ler um array através de um índice que não existe retornará um erro.

@@ -1,0 +1,5 @@
+Criar variáveis a partir da palavra "const" faz com que o valor delas não possa ser alterado ou reatribuído.
+
+Uma variável de tipo "String" também é considerado um objeto, portanto pode ser iterado caractere por caractere.
+
+A palavra chave "continue" força o loop a passar para a próxima iteração.

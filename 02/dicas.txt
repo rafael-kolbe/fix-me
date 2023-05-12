@@ -1,0 +1,3 @@
+Criar variáveis a partir da palavra "const" faz com que o valor delas não possa ser alterado ou reatribuído.
+
+Sempre que comprar um item, deve pagar por ele.

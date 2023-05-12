@@ -1,0 +1,19 @@
+{
+  "name": "fix-me",
+  "version": "1.0.0",
+  "description": "Tente corrigir o código nos 4 exercícios propostos.",
+  "main": "index.js",
+  "scripts": {
+    "01": "node ./01/index.js",
+    "02": "node ./02/index.js",
+    "03": "node ./03/index.js",
+    "04": "node ./04/index.js",
+    "01_answer": "node ./respostas/01/index.js",
+    "02_answer": "node ./respostas/02/index.js",
+    "03_answer": "node ./respostas/03/index.js",
+    "04_answer": "node ./respostas/04/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
