@@ -1,4 +1,4 @@
-A palavra "JAVASCRIP" deve aparecer no terminal sem os hífens "-".
+A palavra "JAVASCRIPT" deve aparecer no terminal sem os hífens "-".
 
 * Exemplo de saída * 
 JAVASCRIPT

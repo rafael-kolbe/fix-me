@@ -1,7 +1,7 @@
 Tente corrigir o código nos 4 exercícios propostos da seguinte maneira:
 
 1. Descubra os erros de execução para fazer o exercício funcionar.
-2. Substitua nomes de variáveis no código para dar sentido a lógica do exercício.
+2. Substitua nomes de variáveis no código para dar sentido à lógica do exercício.
 3. Troque linhas inteiras de lugar para resolver o exercício.
 
 * Lembre que utilizar o console.log() ajuda a entender o que está acontecendo durante o processo de execução do programa *
